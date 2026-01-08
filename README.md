@@ -1,6 +1,6 @@
 # Teksti-TV-työpöytä-widget
 
-https://github.com/Vrezerino/teksti-tv-widget/raw/refs/heads/main/ttw-kaytto.mp4
+<video controls src="https://github.com/Vrezerino/teksti-tv-widget/raw/refs/heads/main/ttw-kaytto.mp4" title="Title"></video>
 
 Tämä ohjelma tarjoaa pienessä ikkunassa työpöydällesi Yle:n teksti-tv:n sekä perinteiset kuvamuotoiset että tekstimuotoiset sivut.
 
