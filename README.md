@@ -1,5 +1,9 @@
 # Teletext Desktop Widget
 
+
+https://github.com/user-attachments/assets/e973226d-e81f-4290-a1f3-aea8fe4f4dce
+
+
 ## News to your desktop without cookies, tracking and nonsense.
 
 This is a teletext desktop widget program that as of version 1.1.0 gets teletext pages from Finnish Yle, Swedish SVT and Italian RAI. One can save pages as bookmarks, adjust program window hue, set it as black-and-white and toggle the theme between traditional image pages and "modern"-look textual pages.
